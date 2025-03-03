@@ -177,7 +177,7 @@ To create a new branch in Git, use the following command:
 
 Replace `<branch-name>` with the desired name for your new branch.
 
-*Switching to a new branch*
+Switching to a new branch
 
 To switch to a new branch, use the following command:
 
@@ -197,13 +197,6 @@ When you're ready to integrate the changes from your new branch into the main br
 2. Merge the new branch into the main branch using `git merge <branch-name>`
 3. Resolve any conflicts that arise during the merge process
 
-Typical workflow
-
-Here's a typical workflow that involves creating, using, and merging branches:
-
-1. Create a new branch for a specific feature or bug fix using `git branch <branch-name>`
-2. Switch to the new branch using `git checkout <
-[03/03, 16:58] Meta AI: Branching is a fundamental feature in Git that allows developers to work on multiple versions of their codebase simultaneously. In this response, we'll explore how branching works in Git, its importance for collaborative development on GitHub, and the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
